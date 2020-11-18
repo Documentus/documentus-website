@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome To James F Stevenson IoT Blog
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).

@@ -26,10 +26,10 @@ Explore more of ChatApp by reading about our features:
 
 Send images, videos and other media to people. Sources include your computer, phone and Facebook.
 
-#### Contact Syncing
+#### Introduction
 
 Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again\!
 
-#### Devices
+#### Devices & Common Use Cases
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.

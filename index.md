@@ -2,7 +2,7 @@
 title: Welcome To James Stevenson's IoT Blog
 ---
 
-![](/Jamezy_Smiling.jpg){: width="50" height="50"} Hello, I'm James Stevenson. Welcome and Thankyou for visiting **My IoT Blog**  This is the perfect place for keeping up to date with IoT in **Plain Language** Please feel free to browse around, and if you come across any techno-speak or jargon, check my jargon-buster here.
+![](/Jamezy_Smiling.jpg){: width="50" height="50"} Hello, I'm James Stevenson. Welcome and Thankyou for visiting **My IoT Blog**.  This is the perfect place for keeping up to date with IoT in **Plain Language** Please feel free to browse around, and if you come across any techno-speak or jargon, check my jargon-buster here.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 

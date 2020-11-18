@@ -1,10 +1,10 @@
 ---
-title: iOS
+title: Industrial
 category: Devices
 order: 1
 ---
 
-Use ChatApp on most of your Apple devices. Only the latest versions are supported.
+The Internet of Things is completely changing how we work, and how information has become the latest 'Industrial Revolution'.
 
 To install ChatApp on your device:
 

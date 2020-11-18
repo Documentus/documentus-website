@@ -1,10 +1,10 @@
 ---
-title: Android
+title: Domestic
 category: Devices
 order: 2
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
+IoT devices can be installed in a range of domestic appliances.
 
 To install ChatApp on your device:
 

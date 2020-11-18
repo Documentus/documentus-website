@@ -2,7 +2,7 @@
 title: Welcome To James Stevenson's IoT Blog
 ---
 
-![](/Jamezy_Smiling.jpg){: width="470" height="539"}This is the **Edition** template from [CloudCannon](http://cloudcannon.com/). **Edition** is perfect for documenting your product, application or service. It's populated with example content to give you some ideas.
+![](/Jamezy_Smiling.jpg){: width="270" height="200"}This is the **Edition** template from [CloudCannon](http://cloudcannon.com/). **Edition** is perfect for documenting your product, application or service. It's populated with example content to give you some ideas.
 
 ChatApp is a fictional chat application for sending messages and media to others. Teams and friend groups would use ChatApp to stay up to date if it existed.
 
